@@ -1,0 +1,14 @@
+text {
+    margin-bottom: 0.5rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.photo-list-container {
+  height: 'auto';
+  width: '100%';
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center
+}
